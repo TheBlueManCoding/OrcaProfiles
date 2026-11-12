@@ -1,0 +1,13 @@
+{
+    "bed_mesh_probe_distance": "100,100",
+    "from": "User",
+    "inherits": "Snapmaker U1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "name": "Snapmaker U1 (0.4 nozzle) - Custom",
+    "printer_flow_support": [
+        "standard",
+        "high_flow"
+    ],
+    "printer_settings_id": "Snapmaker U1 (0.4 nozzle) - Custom",
+    "version": "2.3.4.4"
+}

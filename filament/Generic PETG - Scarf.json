@@ -1,0 +1,16 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Generic PETG - Scarf"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Generic PETG - Scarf",
+    "pressure_advance": [
+        "0.035"
+    ],
+    "version": "2.3.4.5"
+}
